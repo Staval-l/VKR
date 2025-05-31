@@ -1,0 +1,8 @@
+model:../train/output_models/deepseek-coder-6.7b-base-ghidra,opt:O0,compile rate:0.9085,run_rate:0.5671
+model:../train/output_models/deepseek-coder-6.7b-base-ghidra,opt:O1,compile rate:0.8963,run_rate:0.3110
+model:../train/output_models/deepseek-coder-6.7b-base-ghidra,opt:O2,compile rate:0.8780,run_rate:0.3537
+model:../train/output_models/deepseek-coder-6.7b-base-ghidra,opt:O3,compile rate:0.8049,run_rate:0.2927
+model:../train/output_models/deepseek-coder-6.7b-base,opt:O0,compile rate:0.8780,run_rate:0.1524
+model:../train/output_models/deepseek-coder-6.7b-base,opt:O1,compile rate:0.9390,run_rate:0.1098
+model:../train/output_models/deepseek-coder-6.7b-base,opt:O2,compile rate:0.9268,run_rate:0.1098
+model:../train/output_models/deepseek-coder-6.7b-base,opt:O3,compile rate:0.9085,run_rate:0.0976

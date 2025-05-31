@@ -1,0 +1,5 @@
+gpt-4o: opt:O0 | compile_rate: 0.6129, run_rate: 0.2740, avg_edit_distance: 102.11 | compile_ok: 99, run_ok: 43
+gpt-4o: opt:O1 | compile_rate: 0.6115, run_rate: 0.1394, avg_edit_distance: 114.01 | compile_ok: 99, run_ok: 21
+gpt-4o: opt:O2 | compile_rate: 0.6251, run_rate: 0.1829, avg_edit_distance: 109.87 | compile_ok: 100, run_ok: 28
+gpt-4o: opt:O3 | compile_rate: 0.5469, run_rate: 0.1129, avg_edit_distance: 119.02 | compile_ok: 88, run_ok: 18
+

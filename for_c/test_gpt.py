@@ -16,7 +16,7 @@ API = API_KEY
 DATA_PATH = "decompile-eval-executable-gcc-obj.json"
 MODEL = "gpt-4o"
 
-client = OpenAI(api_key=API_KEY)
+client = OpenAI(api_key=API)
 OPT = ["O0", "O1", "O2", "O3"]
 
 

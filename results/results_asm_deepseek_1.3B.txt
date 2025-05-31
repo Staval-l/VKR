@@ -1,0 +1,8 @@
+model:../train/output_models/deepseek-coder-1.3b-base-asm,opt:O0,compile rate:0.9329,run_rate:0.0427
+model:../train/output_models/deepseek-coder-1.3b-base-asm,opt:O1,compile rate:0.9024,run_rate:0.0488
+model:../train/output_models/deepseek-coder-1.3b-base-asm,opt:O2,compile rate:0.9329,run_rate:0.0610
+model:../train/output_models/deepseek-coder-1.3b-base-asm,opt:O3,compile rate:0.9085,run_rate:0.0427
+model:../train/output_models/deepseek-coder-1.3b-base-ghidra,opt:O0,compile rate:0.8476,run_rate:0.3476
+model:../train/output_models/deepseek-coder-1.3b-base-ghidra,opt:O1,compile rate:0.8780,run_rate:0.2073
+model:../train/output_models/deepseek-coder-1.3b-base-ghidra,opt:O2,compile rate:0.8720,run_rate:0.1768
+model:../train/output_models/deepseek-coder-1.3b-base-ghidra,opt:O3,compile rate:0.8171,run_rate:0.1890
