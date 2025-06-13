@@ -1,0 +1,8 @@
+model:../train/output_models/deepseek-coder-1.3b-go,opt:O0,compile rate:0.2311,run_rate:0.0471
+model:../train/output_models/deepseek-coder-1.3b-go,opt:O1,compile rate:0.2004,run_rate:0.0315
+model:../train/output_models/deepseek-coder-1.3b-go,opt:O2,compile rate:0.1507,run_rate:0.0207
+model:../train/output_models/deepseek-coder-1.3b-go,opt:O3,compile rate:0.1003,run_rate:0.0154
+model:../train/output_models/deepseek-coder-6.7b-go,opt:O0,compile rate:0.2417,run_rate:0.0493
+model:../train/output_models/deepseek-coder-6.7b-go,opt:O1,compile rate:0.2201,run_rate:0.0436
+model:../train/output_models/deepseek-coder-6.7b-go,opt:O2,compile rate:0.2006,run_rate:0.0309
+model:../train/output_models/deepseek-coder-6.7b-go,opt:O3,compile rate:0.1825,run_rate:0.0252
